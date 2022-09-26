@@ -1,6 +1,8 @@
 # ChessMaster-PartB
 A console application that shows ten of the most popular strategies 'opening' in chess. Every time the user enter space the movement is changing. The position of the pawns is recorded in external file
+<br>
 Screenshots
+<br>
 
 ![2022-09-26 (7)](https://user-images.githubusercontent.com/81016499/192397128-f3186082-4a9b-4e35-a6ac-1fad9c0b2613.png)
 ![2022-09-26 (9)](https://user-images.githubusercontent.com/81016499/192397130-d1ec9900-8ba3-4064-aae4-748895009a0b.png)
